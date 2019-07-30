@@ -1,5 +1,3 @@
-![title](inn.png)
-
 # Innoplexus Online Hiring Hackathon: Sentiment Analysis
 
 ## Problem Statement
