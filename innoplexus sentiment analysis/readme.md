@@ -41,26 +41,3 @@ test.csv contains texts with drug names for which the participants are expected 
 
 ### Evaluation Metric
 The metric used for evaluating the performance of the classification model would be macro F1-Score.
- 
-
-## Public and Private Split
-
-The texts in the test data are further randomly divided into Public (40%) and Private (60%) data.
-Your initial responses will be checked and scored on the Public data.
-The final rankings would be based on your private score which will be published once the competition is over.
-
-# Leaderboard
-
-
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/lb)** : **44th/735 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/pvt_lb)** : **25th/735 Rank**
-
-## Things you can Learn!!
-
-* **Keras Classification with Attention layer- BiLSTM**
-* **Text data Augmentation**
-* **Different state of Art Keras Models**
-* **Best Data Preprocessing Steps**
-* **Keras implementation for Text Classification with more than 2 Inputs (Extracted Features)**
-* **OvR Logistic Regression**
-* **Kfold in Keras**
